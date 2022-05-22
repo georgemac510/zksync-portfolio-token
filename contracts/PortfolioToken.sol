@@ -12,5 +12,5 @@ contract PortfolioToken is ERC20, Ownable {
     }
 }
 
-//zkSync testnet 2.0 address = 0x4cf0EB256f67eb0059BE03e9DD2B4a534376F9da
-//deployment: https://zksync2-testnet.zkscan.io/address/0x4cf0EB256f67eb0059BE03e9DD2B4a534376F9da/transactions
+//zkSync testnet 2.0 address = 0x7D4B840F0BE2855B0F7d42e4D7e5B837e24b32cc
+//deployment: https://zksync2-testnet.zkscan.io/address/0x7D4B840F0BE2855B0F7d42e4D7e5B837e24b32cc/tokens
