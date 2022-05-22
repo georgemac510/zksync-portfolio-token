@@ -21,9 +21,9 @@ zkSync Portfolio Token is a diversified crypto portfolio investment DeFi token t
 
     yarn hardhat deploy-zksync
 
-zkSync 2.0 Testnet address:  0x7D4B840F0BE2855B0F7d42e4D7e5B837e24b32cc
-Transaction hash: 0xbe4a3c0dc8225d35a160f7dca469f20a75df3d32c91891b9d4e09e938b3bc312
-Contract deployment can be found at: 
+zkSync 2.0 Testnet address:  0x7D4B840F0BE2855B0F7d42e4D7e5B837e24b32cc<br>
+Transaction hash: 0xbe4a3c0dc8225d35a160f7dca469f20a75df3d32c91891b9d4e09e938b3bc312<br>
+Contract deployment can be found at:<br> 
 https://zksync2-testnet.zkscan.io/address/0x7D4B840F0BE2855B0F7d42e4D7e5B837e24b32cc/transactions  
 
 # Run app
