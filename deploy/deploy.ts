@@ -8,7 +8,7 @@ export default async function (hre: HardhatRuntimeEnvironment) {
   console.log(`Running deploy script for the Portfolio Token contract`);
 
   // Initialize the wallet.
-  const wallet = new Wallet("0xaf1ba6c07e228599b269869157d9ddee582233ad4e4d7c36a9dfe2a3b418e616");
+  const wallet = new Wallet("0xab7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
   // Create deployer object and load the artifact of the contract we want to deploy.
   const deployer = new Deployer(hre, wallet);
